@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+	<folder>Good</folder>
+	<filename>Good267.jpg</filename>
+	<path>C:\Users\Divya\Downloads\Good-20200904T213239Z-001\Good\Good267.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>287</width>
+		<height>176</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>27</ymin>
+			<xmax>186</xmax>
+			<ymax>77</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+	<folder>Caution</folder>
+	<filename>Caution173.jpg</filename>
+	<path>/Users/manasiweginwar/Desktop/Caution/Caution173.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>978</width>
+		<height>686</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Caution</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>11</ymin>
+			<xmax>976</xmax>
+			<ymax>680</ymax>
+		</bndbox>
+	</object>
+</annotation>
