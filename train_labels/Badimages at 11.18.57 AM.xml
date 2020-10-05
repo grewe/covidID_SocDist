@@ -1,0 +1,50 @@
+<?xml version="1.0" ?><annotation>
+	<folder>Bad</folder>
+	<filename>Badimages at 11.18.57 AM.jpg</filename>
+	<path>/Users/manasiweginwar/Desktop/Bad\Bad/Users/manasiweginwar/Desktop/Bad/Badimages at 11.18.57 AM.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>582</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bad</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>71</ymin>
+			<xmax>243</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bad</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>284</xmin>
+			<ymin>62</ymin>
+			<xmax>533</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Caution</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>99</ymin>
+			<xmax>374</xmax>
+			<ymax>337</ymax>
+		</bndbox>
+	</object>
+</annotation>

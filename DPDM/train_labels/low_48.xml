@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?><annotation>
+	<folder>Divya</folder>
+	<filename>low_48.jpg</filename>
+	<path>C:\Users\Divya\OneDrive - horizon.csueastbay.edu\covid 19 project\covid_id\dataset\Divya\low_48.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>590</width>
+		<height>839</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>17</ymin>
+			<xmax>275</xmax>
+			<ymax>811</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>109</ymin>
+			<xmax>467</xmax>
+			<ymax>779</ymax>
+		</bndbox>
+	</object>
+</annotation>

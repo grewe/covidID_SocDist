@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+	<folder>Good</folder>
+	<filename>Good73.jpg</filename>
+	<path>/Users/subhi/Downloads/SocDist/Good/Good73.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>850</width>
+		<height>522</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>198</ymin>
+			<xmax>837</xmax>
+			<ymax>489</ymax>
+		</bndbox>
+	</object>
+</annotation>

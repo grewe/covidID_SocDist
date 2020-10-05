@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-1" ?><annotation>
+	<folder>Jamie</folder>
+	<filename>low_571.jpg</filename>
+	<path>C:\Users\hasht\Desktop\Jamie-20200915T175441Z-001\Jamie\low_571.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1365</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>355</xmin>
+			<ymin>100</ymin>
+			<xmax>968</xmax>
+			<ymax>1923</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-1" ?><annotation>
+	<folder>Bhumit</folder>
+	<filename>low_914.jpg</filename>
+	<path>/Users/bhumitpatel/Downloads/Bhumit/low_914.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3648</width>
+		<height>2432</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2366</xmin>
+			<ymin>1316</ymin>
+			<xmax>2795</xmax>
+			<ymax>2173</ymax>
+		</bndbox>
+	</object>
+</annotation>

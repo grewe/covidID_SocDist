@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-1" ?><annotation>
+	<folder>Kunj</folder>
+	<filename>low_283.jpg</filename>
+	<path>/Users/kunjpatel/Desktop/covidID_crowd/Kunj/low_283.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>84</ymin>
+			<xmax>495</xmax>
+			<ymax>911</ymax>
+		</bndbox>
+	</object>
+</annotation>

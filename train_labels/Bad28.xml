@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+	<folder>Bad</folder>
+	<filename>Bad28.JPG</filename>
+	<path>C:\Users\Divya\OneDrive - horizon.csueastbay.edu\covid 19 project\covid_id\dataset\data with	bounding boxes\Bad\Bad28.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>282</width>
+		<height>362</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>124</ymin>
+			<xmax>257</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>
